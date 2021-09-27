@@ -9,7 +9,7 @@ import java.util.List;
 public class Employee {
 
     String name;
-    String soname;
+    String surname;
     Title title;
     List<Skills> skills;
 
